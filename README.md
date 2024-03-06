@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Gran Fantasía
 
 Gran Fantasía - Simulación de batallas entre personajes y orcos en un juego de rol.
 
