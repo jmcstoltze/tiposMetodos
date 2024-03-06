@@ -1,18 +1,20 @@
 # Título del Proyecto
 
-Nombre autoexplicativo del proyecto, con una breve descripción.
+Gran Fantasía - Simulación de batallas entre personajes y orcos en un juego de rol.
 
 ## Descripción
 
-Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
+Este proyecto simula encuentros entre un personaje y un orco en un juego de rol. Utiliza la clase Personaje para representar a los personajes y calcula la probabilidad de ganar la batalla contra el orco. Después de cada encuentro, actualiza la experiencia de los personajes según el resultado.
 
 ## Insignias
 
-Insignias que muestran metadatos como el estado de la compilación, la cobertura de las pruebas, el estado de las dependencias, etc.
+[![Build Status](...)](...)
+[![Coverage Status](...)](...)
+[![Dependency Status](...)](...)
 
 ## Visuales
 
-Capturas de pantalla, videos o GIFs que demuestran lo que hace el proyecto y cómo usarlo.
+*Capturas de pantalla o GIFs demostrando el juego en acción.*
 
 ## Empezando 🚀
 
@@ -20,79 +22,62 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 
 ### Prerrequisitos 📋
 
-Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
-
 - Sistema Operativo (por ejemplo, Ubuntu 20.04, Windows 10)
-- Lenguaje de programación (por ejemplo, Python 3.8)
-- Framework (por ejemplo, Django 3.1)
-- Base de datos (por ejemplo, PostgreSQL 12)
+- Python 3.8
 - Otros...
 
 ### Instalación 🔧
 
-Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
+1. Clona el repositorio.
 
 ```bash
-# paso 1
+git clone https://github.com/tu_usuario/tu_proyecto.git
 ```
 
-Y así sucesivamente...
+1. Instala las dependencias.
 
 ```bash
-# paso 2
+pip install -r requirements.txt
 ```
 
 ## Ejecutando las Pruebas ⚙️
 
-Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
-
 ```bash
-# proporciona un ejemplo
+# Proporciona un ejemplo
 ```
 
 ### Pruebas de Principio a Fin 🔩
 
-Explica qué cubren estas pruebas, por qué son importantes y cómo interpretar sus resultados.
+*Descripción de las pruebas de principio a fin y su importancia.*
 
 ### Pruebas de Estilo de Código ⌨️
 
-Descripción y ejemplos de las pruebas de estilo que estás utilizando.
-
-```bash
-# proporciona un ejemplo
-```
+*Descripción y ejemplos de las pruebas de estilo que estás utilizando.*
 
 ## Despliegue 📦
 
-Instrucciones sobre cómo desplegar esto en un sistema en vivo o ambiente de producción.
+*Instrucciones sobre cómo desplegar el proyecto en un sistema en vivo o en un ambiente de producción.*
 
 ## Construido Con 🛠️
 
-Explica qué tecnologías usaste para construir este proyecto. Aquí algunos ejemplos:
-
-- [Ruby](https://www.ruby-lang.org/es/) - El lenguaje utilizado
-- [Ruby on Rails](https://rubyonrails.org) - El framework web utilizado
-- [Ruby gems](https://rubygems.org) - Gestión de dependencias
-- [Postgresql](https://www.postgresql.org) - Sistema de base de datos
-- [Bulma IO](https://bulma.io) - Framework de CSS
+- Python
+- Otros...
 
 ## Contribuyendo 🖇️
 
-Las contribuciones son lo que hacen a la comunidad de código abierto un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas es muy apreciada. Por favor, lee el [CONTRIBUTING.md](https://gist.github.com/brayandiazc/xxxxxx) para detalles sobre nuestro código de conducta, y el proceso para enviarnos pull requests.
+Lee el [CONTRIBUTING.md](https://gist.github.com/brayandiazc/xxxxxx) para detalles sobre nuestro código de conducta y el proceso para enviarnos pull requests.
 
 ## Wiki 📖
 
-Puedes encontrar mucho más sobre cómo usar este proyecto en nuestra [Wiki](https://github.com/your/project/wiki)
+Puedes encontrar más detalles sobre cómo usar este proyecto en nuestra [Wiki](https://github.com/your/project/wiki).
 
 ## Soporte
 
-Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/your/project/issues).
+Si tienes algún problema o sugerencia, por favor abre un [issue](https://github.com/your/project/issues).
 
 ## Roadmap
 
-Ideas, mejoras planificadas y actualizaciones futuras
-
-para el proyecto actual.
+Ideas, mejoras planificadas y actualizaciones futuras para el proyecto actual.
 
 ## Versionado 📌
 
@@ -106,27 +91,23 @@ Mira también la lista de [contribuidores](https://github.com/your/project/contr
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia XYZ - ve el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia XYZ. Consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
 ## Expresiones de Gratitud 🎁
 
-Estamos agradecidos por las contribuciones de la comunidad a este proyecto. Si encontraste cualquier valor en este proyecto o quieres contribuir, aquí está lo que puedes hacer:
-
-- Comparte este proyecto con otros
-- Invítanos un café ☕
-- Inicia un nuevo problema o contribuye con un PR
-- Muestra tu agradecimiento diciendo gracias en un nuevo problema.
+- Comparte este proyecto con otros.
+- Invítanos un café ☕.
+- Inicia un nuevo issue o contribuye con un PR.
+- Muestra tu agradecimiento diciendo gracias en un nuevo issue.
 
 ---
 
 ## Consejos Adicionales 📝
 
-Aquí hay algunos consejos extra para aprovechar al máximo tu README:
-
-- Mantén cada sección lo más concisa posible. Evita la pelusa innecesaria, ya que puede ser abrumadora para el lector.
-- Asegúrate de que tus instrucciones de instalación, pruebas y despliegue sean detalladas y precisas. Si hay pasos adicionales que el lector necesita tomar (como instalar dependencias extra), asegúrate de incluirlos.
-- Los visuales (imágenes, GIFs) son muy útiles para transmitir rápidamente lo que hace tu proyecto y cómo usarlo. Si puedes, incluye capturas de pantalla de tu aplicación en acción o GIFs que demuestren su uso.
-- El tono amigable y acogedor que usas en tu README es excelente. Ayuda a hacer tu proyecto más acogedor para los colaboradores.
+- Mantén cada sección lo más concisa posible.
+- Asegúrate de que tus instrucciones de instalación, pruebas y despliegue sean detalladas y precisas.
+- Los visuales (imágenes, GIFs) son muy útiles para transmitir rápidamente lo que hace tu proyecto y cómo usarlo.
+- Mantén un tono amigable y acogedor en tu README para hacer que tu proyecto sea más acogedor para los colaboradores.
 
 Recuerda, un buen README es crucial para hacer que tu proyecto sea atractivo y accesible para otros desarrolladores. ¡Buena suerte con tu proyecto!
 
