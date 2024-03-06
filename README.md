@@ -6,12 +6,6 @@ Gran Fantasía - Simulación de batallas entre personajes y orcos en un juego de
 
 Este proyecto simula encuentros entre un personaje y un orco en un juego de rol. Utiliza la clase Personaje para representar a los personajes y calcula la probabilidad de ganar la batalla contra el orco. Después de cada encuentro, actualiza la experiencia de los personajes según el resultado.
 
-## Insignias
-
-[![Build Status](...)](...)
-[![Coverage Status](...)](...)
-[![Dependency Status](...)](...)
-
 ## Visuales
 
 *Capturas de pantalla o GIFs demostrando el juego en acción.*
